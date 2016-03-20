@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# This script generates 200 codes of length 10 and writes them to file results.txt
+# This script generates 200 codes of length 10 and writes them to file result.txt
 # Number varies in range of 0 to 9 inclusive.
 
 import random
